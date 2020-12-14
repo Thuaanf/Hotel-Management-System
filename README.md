@@ -1,5 +1,5 @@
 # Hotel-Management-System
-
+Homework Week 07
 ## Goals:
 * Phần mềm dạng ứng dụng cho máy tính cá nhân, chỉ có nhân viên lễ tân, nhân viên bán hàng, quản lí khách sạn được sử dụng.
 * Người quản lí khách sạn(Manager): 
