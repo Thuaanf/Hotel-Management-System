@@ -16,7 +16,9 @@ Homework Week 07
   - Checkin, checkout và thanh toán tại quầy với nhân viên lễ tân.
 
 ## Objectives:
+* Hoàn thành và chạy thử các tính năng và bảo mật của hệ thống trong 2 tháng.
 * Phần mềm dạng ứng dụng cho máy tính cá nhân, có thể sử dụng mọi loại hệ điều hành
 * Giảm thời gian của khách hàng khi đặt phòng 
 * Giảm thời gian kết xuất báo cáo của người quản lí
 * Tăng hiệu suất của nhân viên bán hàng và tiếp tân
+
